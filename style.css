@@ -1,0 +1,81 @@
+/*---- Google web ster----*/
+section{
+    position: relative;width: 100%;display: flex;justify-content: center;align-items: center;min-height:100vh ;background-color: bisque;
+  }
+  section header{
+    position: absolute;top: 0;width: 100%;
+    display: flex;height: 600px;
+    justify-content: flex-end;padding: 20px;
+  }
+  section header ul{
+    display: flex;justify-content: center;align-items: ;
+  }
+  section header ul li{
+    list-style: none;margin-left: 20px;
+  }
+  section header ul li a{
+    color:black ;text-decoration: none;font-size: 14px;
+  }
+  section header ul li button{
+    background-color: #4584ef;border: none;outline: none;
+    padding: 5px 14px;font-weight: bold;border-radius: 3px;
+    cursor:pointer ;color: white;margin-right: 5px;
+  }
+  
+  
+  section .k79{
+    width: 580px;display: flex;flex-direction: column;
+    justify-content: center;align-items: center;
+   
+  }
+  section .k79 .k80{
+    position: relative;width: 100%;margin-top: 20px;
+  }
+  section .k79 .k80 .k81{
+    width: 100% ;
+    padding: 13px;padding-left: 45px;
+    padding-right: 60px;border-radius: 30px;border: 1px solid black;border: 1px solid black;
+  }
+  section .k79 .k80 .k82{
+    position: absolute;top: 0; width: 100%;display: flex;
+    padding: 12px 20px;justify-content: space-between;align-items: center;pointer-events: none;
+  }
+  section .k79 .k83{
+    margin-top: 20px;
+  }
+  section .k79 .k83 button{
+    margin: 0 5px;padding: 12px 20px;color: black;
+    font-size: 14px;
+    border: none;font-size: 16px;
+    border-radius: 1px solid transparent;
+    outline: none;
+    cursor: pointer;
+  }
+  section .k79 .k83 button:hover{
+    border-radius: 1px solid #ccc;
+  }
+  section .k79 .k84{
+    margin-top: 20px;
+  }
+  section .k85{
+     position: absolute;bottom: 0;left: 0;width: 100%;
+     background: azure;
+  }
+  section .k85 .k87{
+    display: flex;justify-content: space-between;
+    border-top: 1px solid rgb(0, 0, 0, 0.5);
+  }
+  section .k85 .k87 ul{
+    display: flex;
+  }
+  section .k85 .k87 ul li{
+    list-style: none;
+  }
+  section .k85 .k87 ul li a{
+    text-decoration: none;font-size: 14px;color: #5f6368;
+    margin-right: 25px;
+  }
+  section .k86{
+    background:none;font-size: 25px;margin-left: 40px;color:#5f6368 ;display: flex;bottom: 0;
+  }
+  /*---- Google web end----*/
